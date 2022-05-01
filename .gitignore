@@ -1,0 +1,6 @@
+.data/
+app/dasa-fashion/config/
+app/dasa-fashion/log/
+app/dasa-fashion/storage/
+app/dasa-fashion/tmp/
+app/dasa-fashion/vendor/
