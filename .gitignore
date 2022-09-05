@@ -1,5 +1,5 @@
 .data/
-app/dasa-fashion/config/
+app/dasa-fashion/config/enviroments/
 app/dasa-fashion/log/
 app/dasa-fashion/storage/
 app/dasa-fashion/tmp/

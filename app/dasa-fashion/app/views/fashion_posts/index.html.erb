@@ -1,0 +1,11 @@
+<h1>モテ服チェッカー</h1>
+<p>お見合いやデートに行く前に服装をチェック</p>
+<p>服装の画像を投稿してね！</p>
+
+<%= form_with  url:fashion_post_predict_path, model: @fashion_post, local: true do |f| %>
+    <div>
+        <%= f.label :image %>
+        <%= f.file_field :image %>
+    </div>
+    <div><%= f.submit %></div>
+<% end %>

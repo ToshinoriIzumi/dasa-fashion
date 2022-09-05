@@ -2,4 +2,5 @@
 
 docker stop rails_web
 docker stop rails_db
-docker network rm rails_network
+docker stop api_web
+docker network rm fashion_app_network
